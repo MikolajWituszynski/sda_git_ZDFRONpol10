@@ -1,3 +1,2 @@
-# sda_git_ZDFRONpol10
-# sda_git_ZDFRONpol10
 # Welcome in my new repository
+# Repository with useful commands and links to learn GIT
