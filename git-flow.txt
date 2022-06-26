@@ -1,0 +1,11 @@
+GIT FLOW to create new branch and then merge it to the master
+1. git checkout -b "new branch-name"
+2. Add/Edit/Remove
+3. git add .
+4. git commmt -m "message"
+5. git push (set upstream)
+6. Repeat steps 2-5(push without upstream)
+7. New PR (pull request)
+8. Merge
+9. Switch to master-branch
+10. Update master-branch -> git pull
